@@ -1,7 +1,6 @@
 # Cell-CoA
 
-> **[⬇ Download v1.0.2](https://github.com/uncle-bone/Cell-CoA/releases/download/v1.0.2/Cell-CoA-v1.0.2.zip)**
-
+> **[Download](https://github.com/uncle-bone/Cell-CoA/releases/latest)**
 
 Cell for Ascension / Conquest Reborn (WoW 3.3.5a).
 
